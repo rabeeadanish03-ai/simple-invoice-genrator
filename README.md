@@ -1,4 +1,5 @@
-![Invoice Preview](invoice-screenshot.png)
+![Invoice Preview](Invoice.PNG)
+
 
 
 ## How It Works
