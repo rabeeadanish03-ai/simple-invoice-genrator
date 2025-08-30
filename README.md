@@ -1,4 +1,4 @@
-![Invoice Preview](Invoice.PNG)
+![Invoice Preview](Invoice.png)
 
 
 
